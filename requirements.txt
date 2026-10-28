@@ -1,0 +1,14 @@
+# Python 3.10 tro len. Dung rang buoc toi thieu (>=) de cai duoc tren nhieu phien ban Python.
+# File .joblib khong commit nen khong lo lech phien ban giua cac may; ket qua dung chung la .npy/.json.
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+matplotlib>=3.8
+joblib>=1.3
+streamlit>=1.30
+jupyter
+# shap: KHONG bat buoc. XGBoost tinh san gia tri SHAP bang predict(..., pred_contribs=True)
+# (shap hay kho cai tren Python moi). Muon ve bieu do rieng cua shap thi: pip install shap

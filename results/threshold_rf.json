@@ -1,0 +1,6 @@
+{
+  "model": "rf",
+  "method": "min_recall",
+  "threshold": 0.04,
+  "min_recall": 0.7
+}

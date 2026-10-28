@@ -1,0 +1,6 @@
+{
+  "model": "xgb",
+  "method": "min_recall",
+  "threshold": 0.01,
+  "min_recall": 0.7
+}
